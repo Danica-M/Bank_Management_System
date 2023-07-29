@@ -1,0 +1,6 @@
+A1,SeriousSaver,001,1000.0
+A2,Checking,002,0.0
+A3,FastSaver,003,0.0
+A4,Checking,004,0.0
+A5,SeriousSaver,005,1000.0
+A6,SeriousSaver,006,500.0

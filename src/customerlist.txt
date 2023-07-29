@@ -1,0 +1,6 @@
+001,danica,montano,123 Main Street,Female,021212346,danica@gmail.com,user001,123456
+002,mike,brown,333 hay Avenue,Male,0223465556,mike@htg.com,user002,666666
+003,Joe,Smith,10/2 Sierra Road,Male,0211454858,joe@outlook.com,user003,joe1234
+004,mika,Santos,34 Dominion Road,Female,020245698,mika@hgtv.com,user004,000000
+005,Jennifer,Craig,12 Aries Street,none,02041212155,jenna@gmail.com,user005,jennifer123
+006,dan,ica,24 blah street,Female,020222,d@gmail.com,user006,Pass01
